@@ -6,4 +6,4 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping(path = "/skill")
-public class SkillController extends ControllerBase<Skill, SkillService>{ }
+public class SkillController extends ControllerBase<Skill, SkillService> { }
